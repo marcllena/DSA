@@ -5,12 +5,11 @@ package com.company;
  */
 public class Cercle extends Figures
 {
-    private double l1;
-    private double l2;
+    private double r;
     public double area()
     {
         double a;
-        a = l1*l2;
+        a = 2*pi*r;
         return a;
     }
 }
