@@ -6,6 +6,7 @@ package com.company;
 public abstract class Figures {
     public void area()
     {
+        //Prueba
     }
     public double compareTo(Figures in)
     {
