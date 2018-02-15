@@ -22,6 +22,7 @@ public class Main {
         double suma;
         suma = suma(figs);
         ordre(figs);
+        System.out.println("Hola, el total de les arees es: "+suma+". El ordre es el seguent: "+figs.toString());
 
     }
 }
