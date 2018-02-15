@@ -5,11 +5,11 @@ public class Main {
 
     public static void main(String[] args)
     {
-        int radi = 2;
-        int costat1 = 4;
-        int costat2 = 5;
-        int base = 3;
-        int h = 2;
+        double radi = 2;
+        double costat1 = 4;
+        double costat2 = 5;
+        double base = 3;
+        double h = 2;
         Cercle cerc = new Cercle(radi);
         Rectangle rect = new Rectangle(costat1, costat2);
         Quadrat quadr = new Quadrat(costat1);
@@ -22,6 +22,7 @@ public class Main {
         double suma;
         suma = suma(figs);
         ordre(figs);
+        System.out.println("Hola, el total de les arees es: "+suma+". El ordre es el seguent: "+figs.toString());
 
     }
 }
