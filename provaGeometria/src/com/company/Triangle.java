@@ -7,7 +7,11 @@ public class Triangle extends Figures
 {
     private double a;
     private double h;
-
+    public Triangle(double base, double h)
+    {
+        setA(base);
+        setH(h);
+    }
     public void setA(double l1)
     {
         this.a=a;
