@@ -3,7 +3,7 @@ package com.company;
 /**
  * Created by jordi on 14/02/2018.
  */
-public class Circle extends Figures
+public class Cercle extends Figures
 {
     private double l1;
     private double l2;
