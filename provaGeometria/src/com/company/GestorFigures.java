@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class GestorFigures {
     public static double suma(Figures[] fig)
     {
-        int res=0;
+        double res=0;
         for(Figures el : fig)
         {
            res += el.area();

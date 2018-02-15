@@ -5,24 +5,24 @@ package com.company;
  */
 public class Triangle extends Figures
 {
-    private double a;
+    private double b;
     private double h;
     public Triangle(double base, double h)
     {
-        setA(base);
-        setH(h);
+        this.setB(base);
+        this.setH(h);
     }
-    public void setA(double l1)
+    public void setB(double l1)
     {
-        this.a=a;
+        this.b=b;
     }
     public void setH(double l2)
     {
         this.h=h;
     }
-    public double getA()
+    public double getB()
     {
-        return this.a;
+        return this.b;
     }
     public double getH()
     {
@@ -31,8 +31,8 @@ public class Triangle extends Figures
 
     public double area()
     {
-        double a=0;
-        a = (a*h)/2;
+        double a;
+        a = (this.getB()*this.getH())/2;
         return a;
     }
 }
