@@ -21,7 +21,7 @@ public class Main {
         figs[3] = triang;
         double suma;
         suma = suma(figs);
-        ordre(figs);
+//        ordre(figs);
         System.out.println("Hola, el total de les arees es: "+suma+". El ordre es el seguent: "+figs.toString());
 
     }
