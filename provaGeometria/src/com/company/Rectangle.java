@@ -7,7 +7,7 @@ public class Rectangle extends Figures
 {
     private double l1;
     private double l2;
-    public void area()
+    public double area()
     {
         double a;
         a = l1*l2;
