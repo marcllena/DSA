@@ -9,7 +9,7 @@ public class Cercle extends Figures
     public double area()
     {
         double a;
-        a = 2*Math.PI*r;
+        a = 2*Math.PI*this.r;
         return a;
     }
 }
