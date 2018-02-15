@@ -14,11 +14,11 @@ public class Triangle extends Figures
     }
     public void setB(double l1)
     {
-        this.b=b;
+        this.b=l1;
     }
     public void setH(double l2)
     {
-        this.h=h;
+        this.h=l2;
     }
     public double getB()
     {

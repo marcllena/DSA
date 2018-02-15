@@ -1,4 +1,6 @@
 package com.company;
+import java.util.Arrays;
+
 import static com.company.GestorFigures.*;
 
 public class Main {
@@ -21,8 +23,8 @@ public class Main {
         figs[3] = triang;
         double suma;
         suma = suma(figs);
-//        ordre(figs);
-        System.out.println("Hola, el total de les arees es: "+suma+". El ordre es el seguent: "+figs.toString());
+        ordre(figs);
+        System.out.println("Hola, el total de les arees es: "+suma+". El ordre es el seguent: "+ Arrays.toString(figs));
 
     }
 }

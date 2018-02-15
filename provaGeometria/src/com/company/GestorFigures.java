@@ -17,7 +17,7 @@ public class GestorFigures {
     }
     public static void ordre(Figures[] l)
     {
-//        Arrays.sort(l);
+        Arrays.sort(l);
     }
 
 }
