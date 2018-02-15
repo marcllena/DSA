@@ -77,8 +77,8 @@
             <state relative-caret-position="4659">
               <caret line="720" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="785" selection-end-column="10" />
               <folding>
-                <marker date="1518697963856" expanded="true" signature="45406:45448" ph="..." />
-                <marker date="1518697963856" expanded="true" signature="45406:45479" ph="..." />
+                <marker date="1518698005508" expanded="true" signature="45407:45449" ph="..." />
+                <marker date="1518698005508" expanded="true" signature="45407:45480" ph="..." />
               </folding>
             </state>
           </provider>
@@ -461,7 +461,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478000" />
+    <option name="totallyTimeSpent" value="524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2586" height="1546" extended-state="6" />
@@ -476,7 +476,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329591" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287891" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287891" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -593,8 +593,8 @@
         <state relative-caret-position="4659">
           <caret line="720" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="785" selection-end-column="10" />
           <folding>
-            <marker date="1518697963856" expanded="true" signature="45406:45448" ph="..." />
-            <marker date="1518697963856" expanded="true" signature="45406:45479" ph="..." />
+            <marker date="1518698005508" expanded="true" signature="45407:45449" ph="..." />
+            <marker date="1518698005508" expanded="true" signature="45407:45480" ph="..." />
           </folding>
         </state>
       </provider>
