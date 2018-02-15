@@ -6,6 +6,18 @@ import java.lang.Math;
 public class Cercle extends Figures
 {
     private double r;
+    public Cercle(double r)
+    {
+        this.r=r;
+    }
+    public void setR(double r)
+    {
+        this.r=r;
+    }
+    public double getR()
+    {
+        return this.r;
+    }
     public double area()
     {
         double a;
